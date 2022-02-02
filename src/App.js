@@ -20,7 +20,6 @@ function App(){
         let chosenInfo = await Tmdb.getMovieinfo(chosen.id, 'tv')
         setFeatureData(chosenInfo);
 
-        console.log(chosenInfo);
       }
 
       loadAll();
