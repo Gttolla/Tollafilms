@@ -60,7 +60,8 @@ function App(){
       </section>
 
       <footer>
-
+          Feito com <span role="img" aria-label="coração">❤️</span> através da B7web<br/>
+          Dados pegos do site Themoviedb.org
       </footer>
     </div>
   );
