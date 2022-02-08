@@ -63,6 +63,12 @@ function App(){
           Feito com <span role="img" aria-label="coração">❤️</span> através da B7web<br/>
           Dados pegos do site Themoviedb.org
       </footer>
+      
+      {movieList.length <= 0 &&
+        <div className="loading">
+          <img src="https://gifs.eco.br/wp-content/uploads/2021/08/imagens-e-gifs-de-loading-21.gif" alt="carregando" />
+        </div>
+      }
     </div>
   );
 } 
