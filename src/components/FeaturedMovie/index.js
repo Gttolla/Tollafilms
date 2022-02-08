@@ -36,8 +36,8 @@ function FeatureMovie({item}){
                         {item.overview}
                     </div>
                     <div className="featured--buttons">
-                        <a href={`/watch/${item.id}`} className="featured--watchbutton">▶ assistir </a>
-                        <a href={`/list/add/${item.id}`} className="featured--mylistbutton">+ Minha Lista</a>
+                        <a href="https://tollafilms.netlify.app" className="featured--watchbutton">▶ assistir </a>
+                        <a href="https://tollafilms.netlify.app" className="featured--mylistbutton">+ Minha Lista</a>
                     </div>
                     <div className="featured--genres">
                         <strong>Gêneros:</strong>{genres.join(', ')}
