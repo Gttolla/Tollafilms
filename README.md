@@ -1,6 +1,6 @@
 # Tollafilms
 
-<p>It's a streaming model made in react.</p>
+<p>It's a streaming model made in React using TMDB.</p>
   
   <div>
     <div>
