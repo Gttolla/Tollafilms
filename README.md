@@ -6,8 +6,8 @@
     <div>
        <b>Now just test:wink:</b>
     </div>
-    <a href="https://gttollamovies.netlify.app">
-      <p>http://DSMovie-Netlify</p>
+    <a href="https://tollafilms.netlify.app">
+      <p>http://Tollafilms-Netlify</p>
     </a>
   </div>
   
