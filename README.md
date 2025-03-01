@@ -4,7 +4,7 @@
   
   <div>
     <div>
-       <b>Now just test:wink:</b>
+       <b>Now, just test:</b>
     </div>
     <a href="https://tollafilms.netlify.app">
       <p>http://Tollafilms-Netlify</p>
